@@ -1,0 +1,292 @@
+1693855328738	geckodriver	INFO	Listening on 127.0.0.1:64540
+1693855331809	mozrunner::runner	INFO	Running command: "C:\\Users\\Administrator\\.cache\\selenium\\firefox\\win64\\117.0\\firefox.exe" "--marionette" "--remote-de ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiledpkPEg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693855332803	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693855332948	Marionette	INFO	Listening on port 64555
+WebDriver BiDi listening on ws://127.0.0.1:64541
+Read port: 64555
+1693855333107	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64541/devtools/browser/f3ad7496-6776-49c7-9d6c-00c8eea502d8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://gresnik.com."
+1693855402078	Marionette	INFO	Stopped listening on port 64555
+Dynamically enable window occlusion 1
+1693855437274	geckodriver	INFO	Listening on 127.0.0.1:64624
+1693855440341	mozrunner::runner	INFO	Running command: "C:\\Users\\Administrator\\.cache\\selenium\\firefox\\win64\\117.0\\firefox.exe" "--marionette" "--remote-de ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilerqMWXx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693855440784	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693855440856	Marionette	INFO	Listening on port 64634
+WebDriver BiDi listening on ws://127.0.0.1:64625
+Read port: 64634
+1693855441046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64625/devtools/browser/08bcd2ed-2b9a-4b0f-baea-c2856b79baf8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://gresnik.com."
+1693855457249	Marionette	INFO	Stopped listening on port 64634
+Dynamically enable window occlusion 1
+1694420893265	geckodriver	INFO	Listening on 127.0.0.1:63404
+1694420896345	mozrunner::runner	INFO	Running command: "C:\\Users\\Administrator\\.cache\\selenium\\firefox\\win64\\117.0\\firefox.exe" "--marionette" "--remote-de ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilewNbtp4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694420896755	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694420896830	Marionette	INFO	Listening on port 63416
+WebDriver BiDi listening on ws://127.0.0.1:63405
+Read port: 63416
+1694420897043	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63405/devtools/browser/1b42fa5f-38fc-4ef8-9b2f-6f733504a32a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://gresnik.com."
+1694420913425	Marionette	INFO	Stopped listening on port 63416
+Dynamically enable window occlusion 1
+1694421377606	geckodriver	INFO	Listening on 127.0.0.1:63618
+1694421380673	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63619" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileomkWFO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694421381064	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694421381131	Marionette	INFO	Listening on port 63628
+WebDriver BiDi listening on ws://127.0.0.1:63619
+Read port: 63628
+1694421381319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63619/devtools/browser/b44e8fe2-bd3e-4356-9021-651134df7263
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://gresnik.com."
+1694421397710	Marionette	INFO	Stopped listening on port 63628
+Dynamically enable window occlusion 1
+1694422184813	geckodriver	INFO	Listening on 127.0.0.1:63711
+1694422187886	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63712" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileU2ZHHX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694422188353	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694422188422	Marionette	INFO	Listening on port 63721
+WebDriver BiDi listening on ws://127.0.0.1:63712
+Read port: 63721
+1694422188609	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63712/devtools/browser/0f0e22dc-96d6-4db4-b083-d76bd5a4bbaa
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://gresnik.com."
+1694422206108	Marionette	INFO	Stopped listening on port 63721
+Dynamically enable window occlusion 1
+1694422585886	geckodriver	INFO	Listening on 127.0.0.1:63854
+1694422588918	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63855" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileCOBJYL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694422589123	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694422589172	Marionette	INFO	Listening on port 63864
+WebDriver BiDi listening on ws://127.0.0.1:63855
+Read port: 63864
+1694422589313	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63855/devtools/browser/f2f6468d-1c8d-4b11-93a9-0d7e42843612
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://gresnik.com."
+1694422646831	Marionette	INFO	Stopped listening on port 63864
+Dynamically enable window occlusion 1
+1694422687077	geckodriver	INFO	Listening on 127.0.0.1:63946
+1694422690116	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63947" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileZnP21s"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694422690323	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694422690371	Marionette	INFO	Listening on port 63955
+WebDriver BiDi listening on ws://127.0.0.1:63947
+Read port: 63955
+1694422690513	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63947/devtools/browser/e8b18e02-095d-4017-9af9-2f1337f27978
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://gresnik.com."
+1694422756118	Marionette	INFO	Stopped listening on port 63955
+Dynamically enable window occlusion 1
+1694422860753	geckodriver	INFO	Listening on 127.0.0.1:64039
+1694422863802	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64040" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileIH7OoF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694422864006	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694422864055	Marionette	INFO	Listening on port 64048
+WebDriver BiDi listening on ws://127.0.0.1:64040
+Read port: 64048
+1694422864195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64040/devtools/browser/89990b8e-4177-4483-98f2-ace7568a4a11
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://gresnik.com."
+1694422881513	Marionette	INFO	Stopped listening on port 64048
+Dynamically enable window occlusion 1
+1694422948928	geckodriver	INFO	Listening on 127.0.0.1:64103
+1694422951995	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64104" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilerhPknt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694422952201	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694422952251	Marionette	INFO	Listening on port 64113
+WebDriver BiDi listening on ws://127.0.0.1:64104
+Read port: 64113
+1694422952394	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64104/devtools/browser/ffe86f8e-6de4-479a-ad79-21762532a0a3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://gresnik.com."
+1694422969875	Marionette	INFO	Stopped listening on port 64113
+Dynamically enable window occlusion 1
+1694423373737	geckodriver	INFO	Listening on 127.0.0.1:64201
+1694423376779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64202" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilek14Vr5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694423376983	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694423377033	Marionette	INFO	Listening on port 64210
+WebDriver BiDi listening on ws://127.0.0.1:64202
+Read port: 64210
+1694423377173	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64202/devtools/browser/54ca3a7e-aa30-4324-8235-7b02aa08218c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://gresnik.com."
+1694423405629	Marionette	INFO	Stopped listening on port 64210
+Dynamically enable window occlusion 1
+1694423467741	geckodriver	INFO	Listening on 127.0.0.1:64265
+1694423470787	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64266" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileP7JuCO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694423470992	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694423471042	Marionette	INFO	Listening on port 64274
+WebDriver BiDi listening on ws://127.0.0.1:64266
+Read port: 64274
+1694423471183	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64266/devtools/browser/b62311c2-9c3a-435b-99cb-68cb752ee567
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://gresnik.com."
+1694423489234	Marionette	INFO	Stopped listening on port 64274
+Dynamically enable window occlusion 1
+1694423512100	geckodriver	INFO	Listening on 127.0.0.1:64318
+1694423515151	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64319" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileUe940e"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694423515356	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694423515405	Marionette	INFO	Listening on port 64328
+WebDriver BiDi listening on ws://127.0.0.1:64319
+Read port: 64328
+1694423515545	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64319/devtools/browser/ab57b7cc-5bd4-4102-800d-33261e7d3498
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://gresnik.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://gresnik.com."
+1694423535375	Marionette	INFO	Stopped listening on port 64328
+Dynamically enable window occlusion 1
+1694423745314	geckodriver	INFO	Listening on 127.0.0.1:64399
+1694423748417	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64400" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileeMoC9a"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694423748621	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694423748671	Marionette	INFO	Listening on port 64409
+WebDriver BiDi listening on ws://127.0.0.1:64400
+Read port: 64409
+1694423748811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64400/devtools/browser/bfca3f79-d33c-4729-b8c9-75dfedadb896
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://gresnik.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://gresnik.com."
+1694423769393	Marionette	INFO	Stopped listening on port 64409
+Dynamically enable window occlusion 1
+1694424439424	geckodriver	INFO	Listening on 127.0.0.1:64537
+1694424442480	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64538" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile97ILJ9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694424442684	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694424442735	Marionette	INFO	Listening on port 64546
+WebDriver BiDi listening on ws://127.0.0.1:64538
+Read port: 64546
+1694424442875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64538/devtools/browser/2f301c26-8826-44ce-a554-b666157f0f65
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://gresnik.com."
+1694424809626	Marionette	INFO	Stopped listening on port 64546
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64588" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilemmT8eG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694424475218	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694424475269	Marionette	INFO	Listening on port 64600
+WebDriver BiDi listening on ws://127.0.0.1:64588
+Read port: 64600
+1694424475414	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64588/devtools/browser/05f85ccd-2fce-4346-92a0-00c7da3d3c10
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://gresnik.com."
+1694424811642	Marionette	INFO	Stopped listening on port 64600
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64644" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileVkLhaU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694424507749	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694424507799	Marionette	INFO	Listening on port 64657
+WebDriver BiDi listening on ws://127.0.0.1:64644
+Read port: 64657
+1694424507944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64644/devtools/browser/1e890fb4-9403-4f73-9e82-d27f4d89f218
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://gresnik.com."
+1694424813584	Marionette	INFO	Stopped listening on port 64657
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64701" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile7Jxgkn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694424540377	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694424540428	Marionette	INFO	Listening on port 64715
+WebDriver BiDi listening on ws://127.0.0.1:64701
+Read port: 64715
+1694424540570	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64701/devtools/browser/244eb8d1-8d76-4188-8ebb-9b7c22814082
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://gresnik.com."
+1694424815220	Marionette	INFO	Stopped listening on port 64715
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64763" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileF5IJe2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694424574504	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694424574555	Marionette	INFO	Listening on port 64770
+WebDriver BiDi listening on ws://127.0.0.1:64763
+Read port: 64770
+1694424574700	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64763/devtools/browser/a1d45e78-8e65-41ad-ae46-a2be708029ab
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://gresnik.com."
+1694424817536	Marionette	INFO	Stopped listening on port 64770
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64824" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileoZrZjf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694424609623	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694424609674	Marionette	INFO	Listening on port 64832
+WebDriver BiDi listening on ws://127.0.0.1:64824
+Read port: 64832
+1694424609820	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64824/devtools/browser/258fb63e-08d9-49a7-b880-89d700f251c8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://gresnik.com."
+1694424819283	Marionette	INFO	Stopped listening on port 64832
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64886" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile7zJB7S"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694424655109	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694424655160	Marionette	INFO	Listening on port 64894
+WebDriver BiDi listening on ws://127.0.0.1:64886
+Read port: 64894
+1694424655305	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64886/devtools/browser/5d300ac9-c353-4d79-95fa-94affbe0668a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://gresnik.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://gresnik.com."
+1694424675193	Marionette	INFO	Stopped listening on port 64894
+Dynamically enable window occlusion 1
+1694424826015	geckodriver	INFO	Listening on 127.0.0.1:64938
+1694424829042	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64939" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile6BPUFX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694424829249	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694424829300	Marionette	INFO	Listening on port 64947
+WebDriver BiDi listening on ws://127.0.0.1:64939
+Read port: 64947
+1694424829444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64939/devtools/browser/32cf9fd2-231a-4e40-84ca-65abc4264553
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://gresnik.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://gresnik.com."
+1694424849285	Marionette	INFO	Stopped listening on port 64947
+Dynamically enable window occlusion 1
